@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.CreationTimestamp"/>
+<fullyQualifiedTypeName name="com.carrotsearch.hppc.ObjectObjectScatterMap"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.Authentication"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.vo.v7.MasterCityInfoVO"/>
+<fullyQualifiedTypeName name="java.time.ZonedDateTime"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.v7.vo.BookmarkContentVO"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.common.RestResponse"/>
+<fullyQualifiedTypeName name="lombok.Getter"/>
+<fullyQualifiedTypeName name="lombok.Setter"/>
+<fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.v7.ws.WSBookmarkCity"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.repository.BookmarkCityRepository"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.v7.vo.BookmarkVO"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.v7.vo.BookmarkCityVO"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.web.rest.v7.request.WSBookmarkCityRequest"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.repository.MasterCityInfoRepository"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.domain.MasterCityInfo"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.domain.v7.BookmarkCity"/>
+<fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+<fullyQualifiedTypeName name="org.apache.commons.collections.CollectionUtils"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.util.exceptions.DataValidationException"/>
+<fullyQualifiedTypeName name="com.google.gson.JsonObject"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.AmazonS3Service"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.mapper.UserDetailsMapper"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.dto.UserDetailsDTO"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.LocationService"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.domain.UserDetails"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.repository.UserDetailsRepository"/>
+<fullyQualifiedTypeName name="com.viyatra.platform.service.UserDetailsService"/>
+</qualifiedTypeNameHistroy>

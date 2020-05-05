@@ -1,0 +1,45 @@
+package com.viyatra.platform.domain.v7;
+
+import java.io.Serializable;
+import java.time.ZonedDateTime;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.CreationTimestamp;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+@Getter
+@Setter
+@NoArgsConstructor
+@Entity
+@Table(name = "example")
+public class example implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5516859241175331418L;
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long id;
+	
+	@Column(name = "user_name" , nullable = false)
+	private String name;
+	
+	@Column(name = "creation_date" , nullable = false)
+	@CreationTimestamp
+	private ZonedDateTime creationDate;
+	
+	@Column(name = "updated_date" , nullable = false)
+	@CreationTimestamp
+	private ZonedDateTime updatedDate;
+
+}
